@@ -1,0 +1,11 @@
+#main {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 50px;
+}
+
+#main.button {
+  padding: 20px;
+}
